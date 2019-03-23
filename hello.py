@@ -1,4 +1,4 @@
-print("hello world")
+print("hello world123")
 
 #foramt.PY              作用：后面跟参数，替换到格式{}所在位置
 age=20
